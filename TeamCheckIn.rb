@@ -27,8 +27,10 @@ end
 while(teamCheckArray != [""])
   if teamCheckArray.include?(tempname2)
     teamCheckArray.delete(tempname2)
-    
+
   else
     puts "Your team was not found in our system!"
 end
 end
+
+// test test test
